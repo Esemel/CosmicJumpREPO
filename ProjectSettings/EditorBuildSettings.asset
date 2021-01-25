@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FlyScene.unity
     guid: 19d81e4fd5d979c409332207c78cec6e
+  - enabled: 1
+    path: Assets/Scenes/HintScene.unity
+    guid: 3574fa60ba8dca94081036bd2a3c1c55
   m_configObjects: {}
